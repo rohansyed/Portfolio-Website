@@ -392,6 +392,10 @@ textarea {
   margin-bottom: 4rem;
 }
 
+.projects {
+  background: #fafafa;
+}
+
 .projects__row {
   display: grid;
   grid-template-columns: 1.5fr 1fr;
