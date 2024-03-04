@@ -1006,10 +1006,6 @@ textarea {
   -webkit-animation: wheel 1.3s infinite;
 }
 
-.projects-background {
-  background: #fafafa;
-}
-
 @keyframes wheel {
   to {
     opacity: 0;
